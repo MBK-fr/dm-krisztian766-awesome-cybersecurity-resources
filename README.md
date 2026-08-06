@@ -87,6 +87,8 @@ A curated collection of tools, websites, and learning resources for OSINT, penet
 2. [Frida](https://frida.re) - Dynamic instrumentation toolkit for reverse engineering mobile and desktop apps.
 3. [Objection](https://github.com/sensepost/objection) - Runtime mobile exploration toolkit built on Frida, no jailbreak/root required.
 4. [Drozer](https://github.com/WithSecureLabs/drozer) - Security testing framework for Android apps and devices.
+5. [Apktool](https://apktool.org) - Reverse-engineers Android APKs into near-original source and resource files.
+6. [JADX](https://github.com/skylot/jadx) - Decompiles Android DEX/APK files into readable Java source.
 
 ## Malware Analysis & Sandboxes
 1. [VirusTotal](https://www.virustotal.com) - Scans files and URLs against dozens of antivirus engines.
@@ -107,6 +109,8 @@ A curated collection of tools, websites, and learning resources for OSINT, penet
 1. [Tor Project](https://www.torproject.org) - The primary tool for anonymous browsing and dark web access.
 2. [Ahmia](https://ahmia.fi) - Search engine for onion sites on the Tor network.
 3. [OnionSearch](https://github.com/megadose/OnionSearch) - Queries multiple onion search engines at once.
+4. [OnionScan](https://github.com/s-rah/onionscan) - Scans Tor hidden services for operational-security misconfigurations.
+5. [Dark.fail](https://dark.fail) - Verifies canonical, non-phishing onion links for well-known dark web services.
 
 ## Password Cracking & Wordlists
 1. [Hashcat](https://hashcat.net/hashcat) - GPU-accelerated password recovery tool.
