@@ -23,6 +23,7 @@ A curated collection of tools, websites, and learning resources for OSINT, penet
 - [Password Cracking & Wordlists](#password-cracking--wordlists)
 - [Digital Forensics](#digital-forensics)
 - [Threat Intelligence](#threat-intelligence)
+- [Honeypots](#honeypots)
 - [Pentesting & CTF Platforms](#pentesting--ctf-platforms)
 - [Social Engineering & Red Team Tools](#social-engineering--red-team-tools)
 - [Bug Bounty Platforms](#bug-bounty-platforms)
@@ -128,6 +129,17 @@ A curated collection of tools, websites, and learning resources for OSINT, penet
 2. [AlienVault OTX (Open Threat Exchange)](https://otx.alienvault.com) - Community-driven threat intelligence sharing platform.
 3. [Abuse.ch](https://abuse.ch) - Trackers for malware, botnets, and malicious URLs (Feodo, URLhaus, ThreatFox).
 4. [Talos Intelligence](https://talosintelligence.com) - Cisco's threat intelligence research and reputation lookup.
+
+## Honeypots
+1. [T-Pot](https://github.com/dtag-dev-sec/tpotce) - All-in-one honeypot platform bundling dozens of honeypot daemons behind a single dashboard.
+2. [Cowrie](https://github.com/cowrie/cowrie) - Medium-interaction SSH/Telnet honeypot that logs brute-force attempts and captures attacker shell sessions.
+3. [Dionaea](https://github.com/DinoTools/dionaea) - Low-interaction honeypot focused on capturing malware that spreads via network service exploits.
+4. [Glutton](https://github.com/mushorg/glutton) - All-eating, protocol-agnostic honeypot that proxies and logs traffic on any port.
+5. [HFish](https://github.com/hacklcx/HFish) - Lightweight, cross-platform threat-deception/honeypot platform with a web management console.
+6. [Honeytrap](https://github.com/honeytrap/honeytrap) - Extensible honeypot framework written in Go for catching network-based attacks.
+7. [CanaryTokens](https://github.com/thinkst/canarytokens) - Self-hostable honeytoken generator that alerts you the moment a planted file, URL, or credential is touched.
+8. [cowrie-honeypot](https://github.com/Krisztian766/cowrie-honeypot) - A real, running Cowrie deployment with full raw logs, captured malware samples, and a [live GeoIP/threat report](https://krisztian766.github.io/cowrie-honeypot/) generated straight from the data.
+9. [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - Much larger, deeply categorized list of honeypot software if the above isn't enough.
 
 ## Pentesting & CTF Platforms
 1. [Hack The Box](https://www.hackthebox.com) - Interactive pentesting labs and challenges.
