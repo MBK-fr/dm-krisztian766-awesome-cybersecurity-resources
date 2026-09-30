@@ -69,6 +69,7 @@ A curated collection of tools, websites, and learning resources for OSINT, penet
 4. [OWASP ZAP](https://www.zaproxy.org) - Open-source web application vulnerability scanner.
 5. [Nikto](https://github.com/sullo/nikto) - Command-line web server vulnerability scanner.
 6. [SQLmap](https://sqlmap.org) - Automated SQL injection detection and exploitation tool.
+8. [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform; an LLM orchestrates offensive tools to test web and API targets and proves findings with real exploits.
 7. [Metasploit Framework](https://www.metasploit.com) - Penetration testing framework for developing and running exploits.
 
 ## Cloud Security
